@@ -14,7 +14,7 @@ take: Toma el dinero que la máquina ha ganado.
 remaining: Muestra la cantidad actual de suministros en la máquina de café.
 exit: Sal de la aplicación.
 ```
-### Coffee machine app with node.js for hyperskill jetbrains course. 
 
 ## Créditos
 Esta aplicación fue creada por @zusldev.
+for hyperskill jetbrains course.
